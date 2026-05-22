@@ -21,6 +21,6 @@ print(numbers[1:4])
 print(numbers[::2])
 print(numbers[::-1])
 
-#ordered(has index position), mutable( cannot be changed),
+#ordered(has index position), immutable( cannot be changed),
 #Allows Duplicates
 #Can store multiple data types
