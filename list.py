@@ -20,3 +20,7 @@ numbers = [10,20,30,40,50]
 print(numbers[1:4])
 print(numbers[::2])
 print(numbers[::-1])
+
+#ordered(has index position), mutable( cannot be changed),
+#Allows Duplicates
+#Can store multiple data types
