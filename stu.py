@@ -10,7 +10,7 @@ student = {
 print(student["name"])  #john doe
 print(student["age"])   #20
 student["school"] = "ABC High School"  #Adding new key
-student["age"] = 21                    #Update value
+student["age"] = 223                    #Update value
 print(student)
 
 del student["class"]
